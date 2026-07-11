@@ -1,2 +1,59 @@
-# ac69b455-game-development-lead-generati
-Every game development professionals needs this — most just don't know it yet.  Compatible with all major WordPress themes and page builders. Regular security updates. Works with WordPress multisite.  ## What's Included  - Game Development Lead Generation Form Builder — fully configured and ready to use - Clean admin settings panel with inline docu
+=== Game Development Lead Generation Form Builder WordPress Plugin ===
+Contributors: digitalforge
+Requires at least: 5.8
+Tested up to: 6.5
+Stable tag: 1.0.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+Multi-step forms, conditional logic, and CRM integration designed for Game Development businesses. Higher conversion than generic form plugins.
+
+== Description ==
+
+Multi-step forms, conditional logic, and CRM integration designed for Game Development businesses. Higher conversion than generic form plugins.
+
+**Features:**
+
+* Core functionality
+
+== Installation ==
+
+1. Upload the plugin folder to `/wp-content/plugins/`
+2. Activate via WordPress admin > Plugins
+3. Configure via Settings > Game Development Lead Generation Form Builder WordPress Plugin
+
+== Changelog ==
+
+= 1.0.0 =
+* Initial release
+
+== Upgrade Notice ==
+
+= 1.0.0 =
+Initial release.
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/9B6aEX12D4sc6xygUccZJ1w)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/9B6aEX12D4sc6xygUccZJ1w)
+
